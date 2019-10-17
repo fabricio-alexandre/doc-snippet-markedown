@@ -1,0 +1,7 @@
+{
+	"Documentações de Merge Requests": {
+		"prefix": "doc",
+		"body": "## Desenvolvimento \n\n * __Título do desenvolvimento__ \n * Descrição do desenvolvimento. \n \n ## Melhorias \n\n * __Título da melhoria__ \n * Descrição da melhoria. \n \n ## Correções \n\n * __Título da primeira correção__ \n   * Descrição da primeira correção. \n * __Título da segunda correção__ \n   * Descrição da segunda correção. \n\n## Alterações de banco \n\n * Adição do campo __campo__ na tabela __tabela__   \n [alter-table.sql](https://caminho-do-arquivo.sql) \n \n ## Informações adicionais \n\n * __Tarefa no Basecamp:__ https://link-da-tarefa.com.br",
+		"description": "Snippet para documentações de merge requests feitas no GitLab. Os campos que não tiverem conteúdo para ser preenchido, deixar apenas o título."
+	}
+}
